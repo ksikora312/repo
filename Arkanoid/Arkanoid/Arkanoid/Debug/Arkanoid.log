@@ -1,0 +1,12 @@
+﻿  Paddle.cpp
+c:\c++\arkanoid\arkanoid\arkanoid\paddle.cpp(13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\c++\arkanoid\arkanoid\arkanoid\paddle.cpp(13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\c++\arkanoid\arkanoid\arkanoid\paddle.cpp(16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\c++\arkanoid\arkanoid\arkanoid\paddle.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\c++\arkanoid\arkanoid\arkanoid\paddle.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\c++\arkanoid\arkanoid\arkanoid\paddle.cpp(46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\c++\arkanoid\arkanoid\arkanoid\paddle.cpp(46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\c++\arkanoid\arkanoid\arkanoid\paddle.cpp(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\c++\arkanoid\arkanoid\arkanoid\paddle.cpp(55): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  Arkanoid.vcxproj -> C:\C++\Arkanoid\Arkanoid\Debug\Arkanoid.exe
+  Arkanoid.vcxproj -> C:\C++\Arkanoid\Arkanoid\Debug\Arkanoid.pdb (Partial PDB)
